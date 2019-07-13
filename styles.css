@@ -1,0 +1,28 @@
+.first {
+    color: blue;
+}
+.second {
+    color: aqua;
+}
+
+#third {
+    color: red;
+}
+
+img {
+    max-width: 250px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, .5);
+    border-radius: 20px;
+}
+
+.image { 
+    text-align: center;
+}
+
+body {
+    background-image: url(https://i.pinimg.com/originals/54/23/43/54234398f5426952471612a5e375f1ea.jpg);
+}
+
+h1 {
+    font-family: 'Merriweather', serif;
+}
